@@ -1,10 +1,10 @@
-# J20260601
+# 智控 - 局域网设备控制系统
 
-> Portfolio repository for resume review. The product name in the app is "智控".
+> Repository code: J20260601  
+> 本仓库用于作品集与简历展示，不代表完整商业发布版本。
 
 智控是一套局域网设备控制原型系统，包含 React Native 移动端、FastAPI 中控后端，以及运行在被控设备上的轻量 Agent。项目重点展示移动端交互、设备配对、命令下发、执行记录、语音指令和后端接口设计。
 
-本仓库用于作品集展示，不代表完整商业发布版本。
 ## App 展示
 
 | 指令模式 | 语音模式 |
@@ -28,6 +28,13 @@
 - Agent: FastAPI, Python, PyInstaller packaging
 - Platform: Android, Windows local network control prototype
 
+## Co-workers / Contributors
+
+<a href="https://github.com/jasonandme">
+  <img src="https://github.com/jasonandme.png" width="48" height="48" alt="jasonandme" />
+</a>
+
+[@jasonandme](https://github.com/jasonandme) - Co-worker / Contributor
 ## 项目结构
 
 ```text
